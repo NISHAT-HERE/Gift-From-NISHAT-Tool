@@ -75,6 +75,10 @@ A powerful AI-powered development tool with advanced features for coding, deploy
 - ✅ Popout Window for Web Container(@stijnus)
 - ✅ Ability to change Popout window size (@stijnus)
 
+#
+#
+#
+
 ## Getting Started
 
 ### Prerequisites
