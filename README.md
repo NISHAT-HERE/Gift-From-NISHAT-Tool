@@ -90,7 +90,7 @@ A powerful AI-powered development tool with advanced features for coding, deploy
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/NISHAT-HERE/Nishat-Tool.git
+git clone https://github.com/NISHAT-HERE/Gift-From-NISHAT-Tool.git
 cd Nishat-Tool
 ```
 
