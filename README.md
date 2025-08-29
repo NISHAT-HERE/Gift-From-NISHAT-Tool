@@ -77,7 +77,6 @@ A powerful AI-powered development tool with advanced features for coding, deploy
 
 #
 #
-#
 
 ## Getting Started
 
