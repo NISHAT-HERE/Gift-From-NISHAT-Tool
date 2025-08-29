@@ -97,13 +97,14 @@ cd Nishat-Tool
 
 2. **Install Package Manager (pnpm)**:
 
-   ```bash
-   npm install -g pnpm
-   ```
+```bash
+npm install -g pnpm
+```
 
 #
 
 3. Install Dependencies
+
 ```bash
 pnpm install
 ```
