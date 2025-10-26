@@ -116,6 +116,9 @@ pnpm install
 ```bash
 pnpm dev
 ```
+```bash
+npm run dev
+```
 
 #
 #
